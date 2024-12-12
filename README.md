@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/edea13f2-8bb5-4c77-bd71-df36c8ca99f6)•	Images carousel: when user swipe left or right, list content should change accordingly. The images carousel can handle any number of images.
+•	Images carousel: when user swipe left or right, list content should change accordingly. The images carousel can handle any number of images.
 
 •	The list: when user scrolls up the whole page should scroll with it. The list can handle any number of items.
 P.S. images and list content can be local or loaded from the internet.
@@ -11,3 +11,7 @@ List 1 (25 items)
 a = 5
 e = 4
 r = 3
+
+
+
+![image](https://github.com/user-attachments/assets/edea13f2-8bb5-4c77-bd71-df36c8ca99f6)
