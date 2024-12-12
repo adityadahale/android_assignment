@@ -12,6 +12,5 @@ a = 5
 e = 4
 r = 3
 
+![WhatsApp Image 2024-12-12 at 12 51 19 PM (2)](https://github.com/user-attachments/assets/fc4e07c7-66db-44c3-a76c-9518b6a2ede8)
 
-
-![image](https://github.com/user-attachments/assets/edea13f2-8bb5-4c77-bd71-df36c8ca99f6)
